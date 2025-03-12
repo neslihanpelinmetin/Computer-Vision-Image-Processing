@@ -22,11 +22,11 @@ This repository documents my progress through the **Introduction to Computer Vis
 | Module | Topic | Status |
 |--------|-------|--------|
 | 1 | Introduction to Computer Vision | ✅ |
-| 2 | Basic Image Processing | ⏳ |
-| 3 | Image Classification & Object Detection | ❌ |
-| 4 | CV Studio Labs | ❌ |
-| 5 | Web App Deployment | ❌ |
-| 6 | Final Project & Course Completion | ❌ |
+| 2 | Image Processing with OpenCV and Pillow | ⏳ |
+| 3 | Machine Learning Image Classification | ❌ |
+| 4 | Neural Networks and Deep Learning for Image Classification | ❌ |
+| 5 | Object Detection | ❌ |
+| 6 | Project Case: Not Quite a Self-Driving Car - Traffic Sign Classification | ❌ |
 
 ✅ Completed | ⏳ In Progress | ❌ Not Started
 
